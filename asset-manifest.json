@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kine-holistique/static/css/main.52b79167.css",
-    "main.js": "/kine-holistique/static/js/main.08c1d4d3.js",
+    "main.js": "/kine-holistique/static/js/main.0e9d80b2.js",
     "static/media/header_main_img.jpg": "/kine-holistique/static/media/header_main_img.b1dd580818e48daddcdb.jpg",
     "static/media/video_cover_img.jpg": "/kine-holistique/static/media/video_cover_img.5c3be32fa0f29b4d8af5.jpg",
     "static/media/form_main_img.jpg": "/kine-holistique/static/media/form_main_img.d6c4abcb1e38dc80e214.jpg",
@@ -17,10 +17,10 @@
     "static/media/customer_img_1.jpg": "/kine-holistique/static/media/customer_img_1.171d803a1a84c732c2c3.jpg",
     "index.html": "/kine-holistique/index.html",
     "main.52b79167.css.map": "/kine-holistique/static/css/main.52b79167.css.map",
-    "main.08c1d4d3.js.map": "/kine-holistique/static/js/main.08c1d4d3.js.map"
+    "main.0e9d80b2.js.map": "/kine-holistique/static/js/main.0e9d80b2.js.map"
   },
   "entrypoints": [
     "static/css/main.52b79167.css",
-    "static/js/main.08c1d4d3.js"
+    "static/js/main.0e9d80b2.js"
   ]
 }
