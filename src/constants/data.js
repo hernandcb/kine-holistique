@@ -7,25 +7,25 @@ const gradient = "url(#blue-gradient)" ;
 const services = [
     {
         id: 1,
-        icon: <FaPaperPlane style = {{ fill: gradient }} />,
+        icon: <img src = {images.icon_decodage} alt="icon" style={{width: "40%", marginLeft: "auto", marginRight: "auto"}} />,
         title: "Decodage biologique",
         text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
     },
     {
         id: 2,
-        icon: <BiDollarCircle style = {{ fill: gradient }} />,
+        icon: <img src = {images.icon_guts} alt="icon" style={{width: "30%", marginLeft: "auto", marginRight: "auto"}} />,
         title: "Kinésithérapie viscerale",
         text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
     },
     {
         id: 3,
-        icon: <FaRocket style = {{ fill: gradient }} />,
+        icon: <img src = {images.icon_pregnant} alt="icon" style={{width: "40%", marginLeft: "auto", marginRight: "auto"}} />,
         title: "Thérapie manuelle de la femme",
         text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
     },
     {
         id: 4, 
-        icon: <FaEdit style = {{ fill: gradient }} />,
+        icon: <img src = {images.icon_massage} alt="icon" style={{width: "35%", marginLeft: "auto", marginRight: "auto"}} />,
         title: "Massage intuitif",
         text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
     },
