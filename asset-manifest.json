@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/kine-holistique/static/css/main.52b79167.css",
-    "main.js": "/kine-holistique/static/js/main.0e9d80b2.js",
-    "static/media/header_main_img.jpg": "/kine-holistique/static/media/header_main_img.b1dd580818e48daddcdb.jpg",
+    "main.css": "/kine-holistique/static/css/main.0e57fc72.css",
+    "main.js": "/kine-holistique/static/js/main.db1d7ccb.js",
+    "static/media/header_main_img.jpg": "/kine-holistique/static/media/header_main_img.a69f060b749202a2c2c5.jpg",
     "static/media/video_cover_img.jpg": "/kine-holistique/static/media/video_cover_img.5c3be32fa0f29b4d8af5.jpg",
     "static/media/form_main_img.jpg": "/kine-holistique/static/media/form_main_img.d6c4abcb1e38dc80e214.jpg",
     "static/media/portfolio_img_2.jpg": "/kine-holistique/static/media/portfolio_img_2.d6c4abcb1e38dc80e214.jpg",
     "static/media/about_main_img.jpg": "/kine-holistique/static/media/about_main_img.58792d12957648ce314b.jpg",
     "static/media/portfolio_img_1.jpg": "/kine-holistique/static/media/portfolio_img_1.58792d12957648ce314b.jpg",
     "static/media/portfolio_img_3.jpg": "/kine-holistique/static/media/portfolio_img_3.1d233e084fa089ed8091.jpg",
+    "static/media/icon_decodage.png": "/kine-holistique/static/media/icon_decodage.fd642c057c1d5eea0a9f.png",
     "static/media/customer_img_5.jpg": "/kine-holistique/static/media/customer_img_5.cb849f7f8ba50c2d0c9f.jpg",
     "static/media/customer_img_3.jpg": "/kine-holistique/static/media/customer_img_3.75b35d5b9aacc1939370.jpg",
     "static/media/customer_img_4.jpg": "/kine-holistique/static/media/customer_img_4.65480acdf9ab7ec77e16.jpg",
+    "static/media/icon_pregnant.png": "/kine-holistique/static/media/icon_pregnant.286fef53313f15a64c6a.png",
+    "static/media/icon_guts.png": "/kine-holistique/static/media/icon_guts.551b12c4370c02d87935.png",
     "static/media/customer_img_6.jpg": "/kine-holistique/static/media/customer_img_6.1e9bfde17391b8129c04.jpg",
+    "static/media/icon_massage.png": "/kine-holistique/static/media/icon_massage.f63c4e978626b3452037.png",
     "static/media/customer_img_2.jpg": "/kine-holistique/static/media/customer_img_2.a4abaf18fca355149b35.jpg",
     "static/media/customer_img_1.jpg": "/kine-holistique/static/media/customer_img_1.171d803a1a84c732c2c3.jpg",
     "index.html": "/kine-holistique/index.html",
-    "main.52b79167.css.map": "/kine-holistique/static/css/main.52b79167.css.map",
-    "main.0e9d80b2.js.map": "/kine-holistique/static/js/main.0e9d80b2.js.map"
+    "main.0e57fc72.css.map": "/kine-holistique/static/css/main.0e57fc72.css.map",
+    "main.db1d7ccb.js.map": "/kine-holistique/static/js/main.db1d7ccb.js.map"
   },
   "entrypoints": [
-    "static/css/main.52b79167.css",
-    "static/js/main.0e9d80b2.js"
+    "static/css/main.0e57fc72.css",
+    "static/js/main.db1d7ccb.js"
   ]
 }
