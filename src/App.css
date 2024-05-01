@@ -15,6 +15,12 @@
   --spacing: 0.1rem;
   --gradient: linear-gradient(90deg, rgba(16, 201, 195, 1) 0%, rgba(85, 179, 213, 1) 100%);
   --transition: all 300ms linear;
+
+  /* New colors */
+  --clr-apricot: #F9C4A6;
+  --clr-sealbrown: #6E2D08;
+  --clr-brown: #8A390A;
+  
 }
 
 /* global styles */

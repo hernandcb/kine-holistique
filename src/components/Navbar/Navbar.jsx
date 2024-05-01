@@ -2,7 +2,6 @@ import React, {useState} from 'react';
 import {Link} from 'react-router-dom';
 import "./Navbar.css";
 import {FaInstagram} from "react-icons/fa";
-import {IoMdRocket} from "react-icons/io";
 
 const Navbar = () => {
 
